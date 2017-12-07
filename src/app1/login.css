@@ -1,0 +1,23 @@
+@charset "UTF-8";
+body{
+	background-color: #00CED1;
+	align:center;
+}
+
+/*.form-signin{
+	max-width:330px;
+}*/
+.blue_box{
+	background-color:#2b75b5;
+	margin-top:100px;
+	display:block;
+	text-align:center;
+	min-width:300px;
+}
+.form{
+	margin:auto;
+	padding:15px 15px 15px 15px;
+}
+input{
+	padding 0 50px;
+}
