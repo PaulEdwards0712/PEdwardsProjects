@@ -1,5 +1,5 @@
 package app1;
-
+import java.util.Scanner;
 public class NumberForDay {
 
 	public static void main(String[] args){
